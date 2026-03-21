@@ -19,7 +19,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 # ─────────────────────────── НАСТРОЙКИ ───────────────────────────
 
-TOKEN = "ТВОЙ_ТОКЕН"
+TOKEN = "8756631618:AAFbU_ipn9JaQQwv5wILzy_jUnOXXEzvL0A"
 
 CHECK_INTERVAL = 30
 IDLE_INTERVAL = 120
